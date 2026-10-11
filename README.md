@@ -7,7 +7,7 @@ A non-owner SR-22 tends to generate paperwork from several directions at once. A
 Start by deciding what counts as a record. For most people handling non-owner SR-22 coverage, the paperwork falls into four groups:
 
 - **Notices.** Letters or messages from a state agency or court explaining why a filing is needed. Keep the postmark date or email timestamp along with the document itself.
-- **Quotes.** Every quote you receive, including the ones you decline. Save the full document, not a screenshot of the price.
+- **Quotes.** [Every quote you receive](https://pine-aura-daf.notion.site/Non-Owner-SR-22-Quotes-A-Checklist-to-Fill-Out-First-3f4357327da480e7ab09cbc8ac1b6429), including the ones you decline. Save the full document, not a screenshot of the price.
 - **Filing confirmations.** Any message from a company saying a filing was submitted, plus any acknowledgment you receive from the state.
 - **Policy and payment records.** Declarations pages, policy documents, receipts, renewal notices, and notices of cancellation or change.
 
@@ -62,7 +62,7 @@ The log ties the trail together. A spreadsheet or plain text file with these col
 
 | Date | Type | Source | File name | Action needed | Status |
 |---|---|---|---|---|---|
-| 2026-03-10 | Quote | Company A | 2026-03-10_Quote_CompanyA_6mo_v1.pdf | Compare with other quotes | Open |
+| 2026-03-10 | Quote | Company A | 2026-03-10_Quote_CompanyA_6mo_v1.pdf | [Compare with other quotes](https://psycheian-vaat-spliuns.yolasite.com/) | Open |
 
 Add a row every time a document enters the trail. Use the “Action needed” column for the next step, such as “ask about payment schedule” or “confirm the state received the filing.” Status can stay as simple as Open or Done.
 
@@ -81,7 +81,7 @@ During each review, confirm that you're working from the newest version of each 
 
 ## Handle State-Specific Details Carefully
 
-Filing rules, required time periods, and the way confirmations are delivered can differ from state to state. Don't fill gaps with general assumptions. When a detail matters, confirm it with the issuing authority or the quoting company and record who told you and when. CIM Insure has state pages for Texas, California, Florida, Illinois, and Ohio, which can help you get oriented. The authority that issued your notice still has the final word on what it requires.
+Filing rules, required time periods, and the way confirmations are delivered can differ from state to state. Don't fill gaps with general assumptions. When a detail matters, confirm it with the issuing authority or the quoting company and record who told you and when. [CIM Insure](https://pubhtml5.com/homepage/nyaoi/) has state pages for Texas, California, Florida, Illinois, and Ohio, which can help you get oriented. The authority that issued your notice still has the final word on what it requires.
 
 ## Common Gaps to Watch For
 
